@@ -29,8 +29,6 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 **Email:** g.razzu@reading.ac.uk
 
-### Profiles and Links
-
 - Curriculum Vitae
 - Google Scholar
 - ORCID24
