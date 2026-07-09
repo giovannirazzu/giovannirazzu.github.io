@@ -31,8 +31,8 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 - Curriculum Vitae
 - Google Scholar
-- ORCID24
-- RePEc25
+- ORCID
+- RePEc
 - ResearchGate
 
 </td> 
