@@ -13,18 +13,6 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 
 
-## Contact
-
-**Email:** g.razzu@reading.ac.uk
-
-### Profiles and Links
-
-- Curriculum Vitae
-- Google Scholar
-- ORCID24
-- RePEc25
-- ResearchGate
-
 <td width="30%" valign="top">
   
 <div style="padding-top:100px;">
@@ -36,6 +24,18 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 <img src="giovannirazzu-RESphoto.png" width="250">
 
 </div>
+
+## Contact
+
+**Email:** g.razzu@reading.ac.uk
+
+### Profiles and Links
+
+- Curriculum Vitae
+- Google Scholar
+- ORCID24
+- RePEc25
+- ResearchGate
 
 </td> 
 
