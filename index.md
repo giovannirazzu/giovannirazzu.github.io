@@ -2,6 +2,57 @@
 Website under development. Additional content will be added and updated over the coming weeks.
 </p>
 
+<div style="text-align:center; margin-bottom:20px;">
+  
+<a href="/About Me.html" style="
+background:#3F5C77;
+color:white;
+padding:10px 16px;
+text-decoration:none;
+border-radius:4px;
+margin:4px;
+display:inline-block;">
+
+<a href="/Publications.html" style="
+background:#3F5C77;
+color:white;
+padding:10px 16px;
+text-decoration:none;
+border-radius-radius:4px;
+margin:4px;
+display:inline-block;">
+
+<a href="/Work in Progress.html" style="
+background:#3F5C77;
+color:white;
+padding:10px 16px;
+text-decoration:none;
+border-radius-radius:4px;
+margin:4px;
+display:inline-block;">
+
+
+<a href="/Projects.html" style="
+background:#3F5C77;
+color:white;
+padding:10px 16px;
+text-decoration:none;
+border-radius:4px;
+margin:4px;
+display:inline-block;">
+
+<a href="/Teaching.html" style="
+background:#3F5C77;
+color:white;
+padding:10px 16px;
+text-decoration:none;
+border-radius:4px;
+margin:4px;
+display:inline-block;">
+
+
+
+
 <table>
   <tr>
     
