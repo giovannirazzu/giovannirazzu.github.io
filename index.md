@@ -1,13 +1,13 @@
-<center>
-<div style="background-color:lightblue; padding:10px;">
+<div style="
+background-color:#d9edf7;
+padding:12px;
+text-align:center;
+border-radius:5px;
+margin-bottom:20px;
+">
 Website under development. Additional content will be added and updated over the coming weeks.
 </div>
-</center>
-<table>
-<tr>
 
-<td width="70%" valign="top">
-  
 **Giovanni Razzu**
 
 <p>
