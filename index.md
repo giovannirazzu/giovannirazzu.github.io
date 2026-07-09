@@ -19,7 +19,7 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 <img src="giovannirazzu-photo.png" width="250">
 
-<div style="height:180px;"></div>
+<div style="height:80px;"></div>
 
 <img src="giovannirazzu-RESphoto.png" width="250">
 
