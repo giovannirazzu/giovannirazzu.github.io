@@ -4,7 +4,7 @@ Website under development. Additional content will be added and updated over the
 
 <div style="text-align:center; margin-bottom:20px;">
   
-<a href="/About Me.html" style="
+<a href="/" style="
 background:#3F5C77;
 color:white;
 padding:10px 16px;
@@ -12,8 +12,10 @@ text-decoration:none;
 border-radius:4px;
 margin:4px;
 display:inline-block;">
+About Me
+</a>
 
-<a href="/Publications.html" style="
+<a href="/publications.html" style="
 background:#3F5C77;
 color:white;
 padding:10px 16px;
@@ -21,8 +23,11 @@ text-decoration:none;
 border-radius-radius:4px;
 margin:4px;
 display:inline-block;">
+Publications
+</a>
 
-<a href="/Work in Progress.html" style="
+
+<a href="/work in progress.html" style="
 background:#3F5C77;
 color:white;
 padding:10px 16px;
@@ -30,9 +35,10 @@ text-decoration:none;
 border-radius-radius:4px;
 margin:4px;
 display:inline-block;">
+Work in Progress
+</a>
 
-
-<a href="/Projects.html" style="
+<a href="/projects.html" style="
 background:#3F5C77;
 color:white;
 padding:10px 16px;
@@ -40,8 +46,11 @@ text-decoration:none;
 border-radius:4px;
 margin:4px;
 display:inline-block;">
+Projects
+</a>
 
-<a href="/Teaching.html" style="
+
+<a href="/teaching.html" style="
 background:#3F5C77;
 color:white;
 padding:10px 16px;
@@ -49,7 +58,8 @@ text-decoration:none;
 border-radius:4px;
 margin:4px;
 display:inline-block;">
-
+Teaching
+</a>
 
 <table>
   <tr>
