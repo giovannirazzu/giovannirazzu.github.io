@@ -11,19 +11,6 @@ My research covers both microeconomics and macroeconomics. Methodologically, I d
 
 I view economics as a diverse discipline that benefits from a plurality of approaches, perspectives, and methods. Different models and analytical frameworks can shed light on different dimensions of the same problem. This broad-church understanding of economics has shaped both my research and my engagement with the profession. I am strongly committed to promoting equality, diversity and inclusion within economics and higher education. Over the years, I have contributed to a number of national and international initiatives aimed at widening participation, improving representation, and fostering more inclusive professional environments. These roles have included membership of the Expert Advisory Panel of the European Institute for Gender Equality (EIGE) and the UK Research and Innovation (UKRI) Advisory Panel on Equality, Diversity and Inclusion. I currently serve on the Trustee Board of the Royal Economic Society, with oversight responsibilities relating to diversity, inclusion and professional conduct. Through these and other activities, I seek to contribute to a profession that better reflects the diversity of the societies it studies and serves.
 
-<td width="30%" valign="top">
-
-<div style="margin-top:80px;">
-
-<img src="giovannirazzu-photo.png" width="250">
-
-<div style="height:150px;"></div>
-
-<img src="o.png" width="250">
-
-</div>
-
-</td>
 
 
 ## Contact
@@ -38,16 +25,17 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 - RePEc25
 - ResearchGate
 
-</td>
-
 <td width="30%" valign="top">
+  
+<div style="padding-top:100px;">
 
-giovannirazzu-photo.png" width="250"><br><br>
+<img src="giovannirazzu-photo.png" width="250">
 
-giovannirazzu-RESphoto.png
+<div style="height:180px;"></div>
 
-</td>
+<img src="giovannirazzu-RESphoto.png" width="250">
 
-</tr>
-</table>
+</div>
+
+</td> 
 
