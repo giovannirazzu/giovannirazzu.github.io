@@ -29,7 +29,7 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 <p>
 <strong>Email:</strong><br>
-zu@reading.ac.uk">g.razzu@reading.ac.uk</a>
+g.razzu@reading.ac.uk">g.razzu@reading.ac.uk</a>
 </p>
 
 <p>
