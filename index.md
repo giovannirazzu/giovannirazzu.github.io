@@ -1,12 +1,8 @@
-<div style="background:#e8f4f8;
-  padding:12px;
-  border-left:5px solid #5b9bd5;
-  margin-bottom:20px;
-  text-align:center;">
-<b>Website under development.</b><br>
-Additional content will be added and updated over the coming weeks.
+<center>
+<div style="background-color:lightblue; padding:10px;">
+Website under development. Additional content will be added and updated over the coming weeks.
 </div>
-
+</center>
 <table>
 <tr>
 
