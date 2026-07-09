@@ -25,15 +25,24 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 </div>
 
-## Contact
+<h2>Contact & Links</h2>
 
-**Email:** g.razzu@reading.ac.uk
+<p>
+<strong>Email:</strong><br>
+mailto:g.razzu@reading.ac.uk">g.razzu@reading.ac.uk</a>
+</p>
 
-[Google Scholar](https://schitations?user=bZBFpUcAAAAJ&hl=en
-https://orcid.org/0000-0003-2640-83147
-[RePEc](https://ideas.repec.org/f/pra798.html)
-[ResearchGate](https://www.researchgate.net/profile/Giovanni-Razzu)
+<p>
+://scholar.google.com/citations?user=bZBFpUcAAAAJ&hl=en">Google Scholar</a><br>
+
+<a href="https://orcid.org/0000-00034<br>
+
+<a href="https://ideas.repec.org/f/pra798.html">RePEc</a><br>
+
+/profile/Giovanni-Razzu">ResearchGate</a><br>
+
 Curriculum Vitae
+</p>
 
 </td> 
 
