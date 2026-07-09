@@ -33,9 +33,9 @@ zu@reading.ac.uk">g.razzu@reading.ac.uk</a>
 </p>
 
 <p>
-.com/citations?user=bZBFpUcAAAAJ&hl=en">Google Scholar</a><br><br>
-orcid.org/0000-0003-2640-8314">ORCID</a><br><br>
-/pra798.html">RePEc</a><br><br>
+<a href="https://scholar.google.com/citations?user=bZBFpUcAAAAJ&hl=en">Google Scholar</a><br><br>
+<a href="https://orcid.org/my-orcid?orcid=0000-0003-2640-8314">ORCID</a><br><br>
+<a href="https://ideas.repec.org/f/pra798.html">IDEASRePEc</a><br><br>
 <a href="https://www.researchgate.net/profile/Giovanni-Razzu">ResearchGate</a><br><br>
 
 Curriculum Vitae
