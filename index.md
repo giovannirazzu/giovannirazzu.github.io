@@ -13,17 +13,18 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 <td width="30%" valign="top">
 
-<div style="margin-top:120px;">
+<div style="margin-top:80px;">
 
 <img src="giovannirazzu-photo.png" width="250">
-  
-<br><br><br><br><br>
-  
-<img src="giovannirazzu-RESphoto.png" width="250">
-  
+
+<div style="height:150px;"></div>
+
+<img src="o.png" width="250">
+
 </div>
-  
+
 </td>
+
 
 ## Contact
 
