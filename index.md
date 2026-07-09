@@ -19,7 +19,7 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 <img src="giovannirazzu-photo.png" width="250">
 
-<div style="height:80px;"></div>
+<div style="height:120px;"></div>
 
 <img src="giovannirazzu-RESphoto.png" width="250">
 
@@ -29,20 +29,18 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 <p>
 <strong>Email:</strong><br>
-mailto:g.razzu@reading.ac.uk">g.razzu@reading.ac.uk</a>
+zu@reading.ac.uk">g.razzu@reading.ac.uk</a>
 </p>
 
 <p>
-://scholar.google.com/citations?user=bZBFpUcAAAAJ&hl=en">Google Scholar</a><br>
-
-<a href="https://orcid.org/0000-00034<br>
-
-<a href="https://ideas.repec.org/f/pra798.html">RePEc</a><br>
-
-/profile/Giovanni-Razzu">ResearchGate</a><br>
+.com/citations?user=bZBFpUcAAAAJ&hl=en">Google Scholar</a><br><br>
+orcid.org/0000-0003-2640-8314">ORCID</a><br><br>
+/pra798.html">RePEc</a><br><br>
+<a href="https://www.researchgate.net/profile/Giovanni-Razzu">ResearchGate</a><br><br>
 
 Curriculum Vitae
 </p>
+</div>
 
 </td> 
 
