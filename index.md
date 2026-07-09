@@ -1,3 +1,5 @@
+
+
 # Giovanni Razzu
 
 I am a Professor of Economics whose research focuses on socio-economic inequality and the economic and social processes that shape opportunities and life chances. Much of my work has examined gender inequalities and labour market outcomes, while also addressing broader questions relating to intersectional inequalities, intergenerational mobility, and the distribution of economic opportunities across individuals and households. I am interested in understanding how economic institutions, social norms, public policies, and individual behaviours interact to produce unequal outcomes. Before joining the University of Reading, I worked as a Government Economist in a number of UK government departments, including the Office of the Deputy Prime Minister, the Cabinet Office and the Government Equalities Office. During this time, I worked on a range of policy issues relating to economic and social inequality. At the Government Equalities Office, I served as Acting Chief Economist and led the Secretariat to the National Equality Panel, which produced the landmark report *An Anatomy of Economic Inequality in the UK* (2010).
