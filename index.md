@@ -2,6 +2,11 @@
 Website under development. Additional content will be added and updated over the coming weeks.
 </p>
 
+<table>
+  <tr>
+    
+  <td width="70%" valign="top">
+    
 <h1>Giovanni Razzu</h1>
 
 <p>
