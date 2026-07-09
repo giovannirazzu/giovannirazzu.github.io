@@ -32,7 +32,7 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 giovannirazzu-photo.png" width="250"><br><br>
 
-giovannirazzu-res.png
+giovannirazzu-RESphoto.png
 
 </td>
 
