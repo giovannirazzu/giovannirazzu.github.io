@@ -15,15 +15,15 @@ I view economics as a diverse discipline that benefits from a plurality of appro
 
 <div style="margin-top:120px;">
 
-  <img src="giovannirazzu-photo.png" width="250">
+<img src="giovannirazzu-photo.png" width="250">
   
-  <br><br><br><br><br>
+<br><br><br><br><br>
   
-  <img src="giovannirazzu-RESphoto.png" width="250">
+<img src="giovannirazzu-RESphoto.png" width="250">
   
-  </div>
+</div>
   
-  </td>
+</td>
 
 ## Contact
 
