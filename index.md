@@ -1,6 +1,4 @@
 # Giovanni Razzu
-  
-**Professor of Economics**
 
 I am a Professor of Economics whose research focuses on socio-economic inequality and the economic and social processes that shape opportunities and life chances. Much of my work has examined gender inequalities and labour market outcomes, while also addressing broader questions relating to intersectional inequalities, intergenerational mobility, and the distribution of economic opportunities across individuals and households. I am interested in understanding how economic institutions, social norms, public policies, and individual behaviours interact to produce unequal outcomes. 
 
