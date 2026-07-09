@@ -1,4 +1,4 @@
-#Research
+Research
 
 My research interests include:
 
