@@ -1,4 +1,4 @@
-
+<img src="giovannirazzu-photo.png" alt="Giovanni Razzu" width="250" align="right" style="margin-left:20px;">
 
 # Giovanni Razzu
 
