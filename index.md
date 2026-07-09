@@ -1,11 +1,14 @@
 <div style="
 background-color:#d9edf7;
+border:1px solid #bce8f1;
 padding:12px;
 text-align:center;
-border-radius:5px;
-margin-bottom:20px;
+margin:0 0 20px 0;
+width:100%;
+box-sizing:border-box;
 ">
-Website under development. Additional content will be added and updated over the coming weeks.
+<strong>Website under development.</strong>
+Additional content will be added and updated over the coming weeks.
 </div>
 
 **Giovanni Razzu**
