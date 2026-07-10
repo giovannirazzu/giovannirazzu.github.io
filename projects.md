@@ -138,21 +138,7 @@ title: giovannirazzu | Projects
       <span class="gr-card-link">inhabit-h2020.eu â</span>
     </a>
 
-    <a class="gr-card" href="https://sticerd.lse.ac.uk/dps/case/cr/casereport60.pdf" target="_blank" rel="noopener">
-      <span class="gr-card-tag">Independent Review Â· Report</span>
-      <p class="gr-card-name">National Equality Panel</p>
-      <p class="gr-card-desc">Independent review set up by Harriet Harman, then Minister for Equality and Leader of the House, to carry out a comprehensive assessment of economic inequalities in the UK. Final report: "An Anatomy of Economic Inequality in the UK."</p>
-      <span class="gr-card-link">View final report (PDF) â</span>
-    </a>
-
-    <a class="gr-card" href="https://dera.ioe.ac.uk/id/eprint/26640/1/equality_review.pdf" target="_blank" rel="noopener">
-      <span class="gr-card-tag">Independent Review Â· Report</span>
-      <p class="gr-card-name">Equalities Review</p>
-      <p class="gr-card-desc">Independent review set up by the Prime Minister to examine the long-term causes of disadvantage to be addressed by public policy. Final report: "Fairness and Freedom."</p>
-      <span class="gr-card-link">View final report (PDF) â</span>
-    </a>
-
-    <a class="gr-card" href="https://eige.europa.eu/gender-mainstreaming/toolkits/gender-neutral-job-evaluation" target="_blank" rel="noopener">
+  <a class="gr-card" href="https://eige.europa.eu/gender-mainstreaming/toolkits/gender-neutral-job-evaluation" target="_blank" rel="noopener">
       <span class="gr-card-tag">EIGE Toolkit</span>
       <p class="gr-card-name">Gender-Neutral Job Evaluation Toolkit</p>
       <p class="gr-card-desc">EU-wide guidelines on gender-neutral job evaluation and classification: a step-by-step toolkit developed for the European Institute for Gender Equality (EIGE).</p>
@@ -173,8 +159,23 @@ title: giovannirazzu | Projects
       <span class="gr-card-link">eige.europa.eu â</span>
     </a>
 
+    <a class="gr-card" href="https://sticerd.lse.ac.uk/dps/case/cr/casereport60.pdf" target="_blank" rel="noopener">
+      <span class="gr-card-tag">Independent Review Â· Report</span>
+      <p class="gr-card-name">National Equality Panel</p>
+      <p class="gr-card-desc">Independent review set up by Harriet Harman, then Minister for Equality and Leader of the House, to carry out a comprehensive assessment of economic inequalities in the UK. Final report: "An Anatomy of Economic Inequality in the UK."</p>
+      <span class="gr-card-link">View final report (PDF) â</span>
+    </a>
+
+    <a class="gr-card" href="https://dera.ioe.ac.uk/id/eprint/26640/1/equality_review.pdf" target="_blank" rel="noopener">
+      <span class="gr-card-tag">Independent Review Â· Report</span>
+      <p class="gr-card-name">Equalities Review</p>
+      <p class="gr-card-desc">Independent review set up by the Prime Minister to examine the long-term causes of disadvantage to be addressed by public policy. Final report: "Fairness and Freedom."</p>
+      <span class="gr-card-link">View final report (PDF) â</span>
+    </a>
+
+
     <a class="gr-card" href="https://researchonline.lse.ac.uk/id/eprint/106250/" target="_blank" rel="noopener">
-      <span class="gr-card-tag">Home Office Â· Report</span>
+      <span class="gr-card-tag">Home Office · Report</span>
       <p class="gr-card-name">Economic Costs of Antisocial Behaviour</p>
       <p class="gr-card-desc">A review of the economic costs of antisocial behaviour, prepared for the Home Office.</p>
       <span class="gr-card-link">View report â</span>
