@@ -116,7 +116,7 @@ title: giovannirazzu
   <nav class="gr-nav">
     <a href="https://giovannirazzu.github.io/">About Me</a>
     <a href="https://giovannirazzu.github.io/publications.html">Publications</a>
-    <a href="https://giovannirazzu.github.io/work-in-progress.html">Work in Progress</a>
+    <a href="https://giovannirazzu.github.io/work in progress.html">Work in Progress</a>
     <a href="https://giovannirazzu.github.io/projects.html">Projects</a>
     <a href="https://giovannirazzu.github.io/teaching.html">Teaching</a>
   </nav>
@@ -148,7 +148,7 @@ title: giovannirazzu
 
     <div class="gr-photos">
       <!-- Replace these src values with your own image files, e.g. /assets/img/photo1.jpg -->
-      <img src="/assets/img/photo1.jpg" alt="Giovanni Razzu speaking at a conference">
+      <img src="/assets/img/.jpg" alt="Giovanni Razzu speaking at a conference">
       <img src="/assets/img/photo2.jpg" alt="Giovanni Razzu portrait">
     </div>
   </div>
