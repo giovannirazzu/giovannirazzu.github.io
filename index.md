@@ -110,7 +110,7 @@ title: giovannirazzu
 <div class="gr-page">
 
   <h1><a href="https://giovannirazzu.github.io/" style="color:inherit;text-decoration:none;">Giovanni Razzu</a></h1>
-  <p class="gr-tagline">Professor of Economics Â· University of Reading</p>
+  <p class="gr-tagline">Professor in Economics of Public Policy· University of Reading</p>
   <p class="gr-notice">Website under development. Additional content will be added and updated over the coming weeks.</p>
 
   <nav class="gr-nav">
@@ -124,7 +124,7 @@ title: giovannirazzu
   <div class="gr-layout">
     <div class="gr-main">
 
-      <p>I am a Professor of Economics whose research focuses on socio-economic inequality and the economic and social processes that shape opportunities and life chances. Much of my work has examined gender inequalities and labour market outcomes, while also addressing broader questions relating to intersectional inequalities, intergenerational mobility, and the distribution of economic opportunities across individuals and households. I am interested in understanding how economic institutions, social norms, public policies, and individual behaviours interact to produce unequal outcomes.</p>
+      <p>I am a Professor in Economics of Public Policy whose research focuses on socio-economic inequality and the economic and social processes that shape opportunities and life chances. Much of my work has examined gender inequalities and labour market outcomes, while also addressing broader questions relating to intersectional inequalities, intergenerational mobility, and the distribution of economic opportunities across individuals and households. I am interested in understanding how economic institutions, social norms, public policies, and individual behaviours interact to produce unequal outcomes.</p>
 
       <p>Before joining the University of Reading, I worked as a Government Economist in a number of UK government departments, including the Office of the Deputy Prime Minister, the Cabinet Office and the Government Equalities Office. During this time, I worked on a range of policy issues relating to economic and social inequality. At the Government Equalities Office, I served as Acting Chief Economist and led the Secretariat to the National Equality Panel, which produced the landmark report "An Anatomy of Economic Inequality in the UK" in 2010.</p>
 
