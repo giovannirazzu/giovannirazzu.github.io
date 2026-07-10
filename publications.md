@@ -104,55 +104,55 @@ title: giovannirazzu | Publications
   </div>
 
   <div class="pub">
-    <p class="pub-title">Three-Generation Educational Mobility in Six African Countries: The Role of Grandparents</p>
+    <p class="pub-title">,<a href="https://doi.org/10.1016/j.worlddev.2025.107114">Three-Generation Educational Mobility in Six African Countries: The Role of Grandparents</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Abbi Wambile</p>
     <p class="pub-venue">World Development, vol. 195, p. 107114, 2025</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title">Government Spending Reallocations and Inequality: Evidence from Middle-Income Countries</p>
+    <p class="pub-title"><a href="https://doi.org/10.1007/s00181-025-02768-3">Government Spending Reallocations and Inequality: Evidence from Middle-Income Countries</a>a></p>
     <p class="pub-authors">Abraham Isiaka, Alexander Mihailov, and <strong>Giovanni Razzu</strong></p>
     <p class="pub-venue">Empirical Economics, pp. 1â29, 2025</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="https://centaur.reading.ac.uk/115744/">Fiscal Policy and Inequality in Middle- and High-Income Countries: Redistributive Effects of Tax and Spending Shocks</a></p>
+    <p class="pub-title"><a href="https://doi.org/10.1017/S1365100524000142">Fiscal Policy and Inequality in Middle- and High-Income Countries: Redistributive Effects of Tax and Spending Shocks</a></p>
     <p class="pub-authors">Abraham Isiaka, Alexander Mihailov, and <strong>Giovanni Razzu</strong></p>
     <p class="pub-venue">Macroeconomic Dynamics, vol. 29, e:12, 2024</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="http://centaur.reading.ac.uk/101333">Four Decades of Intergenerational Educational Mobility in Sub-Saharan Africa</a></p>
+    <p class="pub-title"><a href="https://doi.org/10.1080/00220388.2021.2008366">Four Decades of Intergenerational Educational Mobility in Sub-Saharan Africa</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Abbi Wambile</p>
     <p class="pub-venue">Journal of Development Studies, vol. 58(5), 2021</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="http://centaur.reading.ac.uk/92703/">On Why the Gender Employment Gap in Britain Has Stalled Since the Early 1990s</a></p>
+    <p class="pub-title"><a href="http://centaur.reading.ac.uk/92703">On Why the Gender Employment Gap in Britain Has Stalled Since the Early 1990s</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong>, Carl Singleton, and Mark Mitchell</p>
     <p class="pub-venue">Industrial Relations Journal, vol. 51(6), pages 476â501, 2020</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="http://centaur.reading.ac.uk/86079/">Who Works for Whom and the UK Gender Pay Gap</a></p>
+    <p class="pub-title"><a href="https://doi.org/10.1111/bjir.12497">Who Works for Whom and the UK Gender Pay Gap</a></p>
     <p class="pub-authors">Sarah Louise Jewell, <strong>Giovanni Razzu</strong>, and Carl Singleton</p>
     <p class="pub-venue">British Journal of Industrial Relations, vol. 58(1), pages 50â81, 2020</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title">Segregation and Gender Gaps in the United Kingdom's Great Recession and Recovery</p>
+    <p class="pub-title"><a href="https://doi.org/10.1080/13545701.2018.1451907">Segregation and Gender Gaps in the United Kingdom's Great Recession and Recovery</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Carl Singleton</p>
     <p class="pub-venue">Feminist Economics, vol. 24(4), pages 31â55, 2018</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title">Gender and the Business Cycle: A Stocks and Flows Analysis of US and UK Labour Market States</p>
+    <p class="pub-title"><a href="https://doi.org/10.1016/j.jmacro.2015.12.006">Gender and the Business Cycle: A Stocks and Flows Analysis of US and UK Labour Market States</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Carl Singleton</p>
     <p class="pub-venue">Journal of Macroeconomics, vol. 47, pages 131â146, 2016</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title">Urban Redevelopment, Cultural Heritage, Poverty and Redistribution: The Case of Adwaso House in Old Accra</p>
+    <p class="pub-title"><a href="10.1016/j.habitatint.2003.12.002">Urban Redevelopment, Cultural Heritage, Poverty and Redistribution: The Case of Adwaso House in Old Accra</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong></p>
     <p class="pub-venue">Habitat International, vol. 29(3), pages 399â419, 2014</p>
   </div>
@@ -160,25 +160,25 @@ title: giovannirazzu | Publications
   <div class="gr-cat">Books</div>
 
   <div class="pub">
-    <p class="pub-title">Gender Inequality in the Eastern European Labour Market: Twenty-Five Years of Transition Since the Fall of Communism</p>
+    <p class="pub-title"><a href="https://doi.org/10.4324/9781315657400">Gender Inequality in the Eastern European Labour Market: Twenty-Five Years of Transition Since the Fall of Communism</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> (editor)</p>
     <p class="pub-venue">Routledge, 2017</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title">Gender Inequality in the Labour Market in the UK</p>
+    <p class="pub-title"><a href="https://doi.org/10.1093/acprof:oso/9780199686483.001.0001">Gender Inequality in the Labour Market in the UK</a>></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> (editor)</p>
     <p class="pub-venue">Oxford University Press, Oxford, 2014</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="http://centaur.reading.ac.uk/92702/">Covid-19 Pandemic and Gender Inequality in the Labour Market in the UK</a></p>
+    <p class="pub-title"><a href="http://doi.org/10.30687/978-88-6969-442-4/021">Covid-19 Pandemic and Gender Inequality in the Labour Market in the UK</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong></p>
     <p class="pub-venue">Chapter in Billio, M. and Varotto, S. (eds.), A New World Post COVID-19: Lessons for Business, the Finance Industry and Policy Makers, Ca' Foscari University Press, Venice, 2020</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="http://centaur.reading.ac.uk/38634/">The Macroeconomic Context: Gender Business Cycles</a></p>
+    <p class="pub-title"><a href="https://doi.org/10.1093/acprof:oso/9780199686483.003.0002">The Macroeconomic Context: Gender Business Cycles</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Carl Singleton</p>
     <p class="pub-venue">Chapter in Razzu, G. (ed.), Gender Inequality in the Labour Market in the UK, Oxford University Press, Oxford, 2014</p>
   </div>
@@ -186,7 +186,7 @@ title: giovannirazzu | Publications
   <div class="gr-cat">Others</div>
 
   <div class="pub">
-    <p class="pub-title"><a href="http://centaur.reading.ac.uk/129934">Converging Paths: Intergenerational Educational Mobility and the Decline of Gender and Geographic Gaps in Bangladesh</a></p>
+    <p class="pub-title"><a href="http://documents.worldbank.org/curated/en/099531405192618052">Converging Paths: Intergenerational Educational Mobility and the Decline of Gender and Geographic Gaps in Bangladesh</a></p>
     <p class="pub-authors">Sandra Olivieri, <strong>Giovanni Razzu</strong>, and Abbi Wambile</p>
     <p class="pub-venue">World Bank Group, Policy Research Working Paper 11386, 2026</p>
   </div>
