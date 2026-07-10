@@ -61,11 +61,6 @@ title: giovannirazzu
     gap: 48px;
     align-items: start;
   }
-  @media (max-width: 700px) {
-    .gr-layout { grid-template-columns: 1fr; }
-    .gr-photos { order: -1; display: flex; gap: 12px; }
-    .gr-photos img { flex: 1; }
-  }
 
   
   .gr-main p { line-height: 1.7; margin: 0 0 18px; max-width: 68ch; }
@@ -163,13 +158,6 @@ title: giovannirazzu
     </div>
   </div>
   
-
-    <div class="gr-photos">
-      <!-- Replace these src values with your own image files, e.g. /assets/img/photo1.jpg -->
-      <img src="/assets/img/giovannirazzu-photo.png">
-      <img src="/assets/img/giovannirazzu-RESphoto.png">
-    </div>
-  </div>
 
 </div>
 
