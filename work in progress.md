@@ -84,7 +84,7 @@ title: giovannirazzu | Work in Progress
   <p class="gr-page-intro">Papers currently under review or in draft. Completed, published work is listed on the <a href="https://giovannirazzu.github.io/publications.html">Publications</a> page instead.</p>
 
   <div class="pub">
-    <p class="pub-title">It's Not Only *p*: Explaining Rising Inequality When Capital Share Stands Still</p>
+    <p class="pub-title">It's Not Only _p_: Explaining Rising Inequality When Capital Share Stands Still</p>
     <p class="pub-authors">With Yanshu Wang and Neha Hui</p>
     <p class="pub-nolink">Link coming soon</p>
   </div>
