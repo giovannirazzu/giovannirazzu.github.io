@@ -148,8 +148,8 @@ title: giovannirazzu
 
     <div class="gr-photos">
       <!-- Replace these src values with your own image files, e.g. /assets/img/photo1.jpg -->
-      <img src="/assets/img/giovannirazzu-photo.png" alt="Giovanni Razzu speaking at a conference">
-      <img src="/assets/img/giovannirazzu-RESphoto.png" alt="Giovanni Razzu portrait">
+      <img src="/assets/img/giovannirazzu-photo.png">
+      <img src="/assets/img/giovannirazzu-RESphoto.png">
     </div>
   </div>
 
