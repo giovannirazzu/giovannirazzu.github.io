@@ -115,8 +115,6 @@ title: giovannirazzu | Projects
 
 <div class="gr-page">
 
-  <h1><a href="https://giovannirazzu.github.io/" style="color:inherit;text-decoration:none;">Giovanni Razzu</a></h1>
-  <p class="gr-tagline">Professor in Economics of Public Policy Â· University of Reading</p>
 
   <nav class="gr-nav">
     <a href="https://giovannirazzu.github.io/">About Me</a>
