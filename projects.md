@@ -139,21 +139,21 @@ title: giovannirazzu | Projects
   <a class="gr-card" href="https://eige.europa.eu/gender-mainstreaming/toolkits/gender-neutral-job-evaluation" target="_blank" rel="noopener">
       <span class="gr-card-tag">EIGE Toolkit</span>
       <p class="gr-card-name">Gender-Neutral Job Evaluation Toolkit</p>
-      <p class="gr-card-desc">EU-wide guidelines on gender-neutral job evaluation and classification: a step-by-step toolkit developed for the European Institute for Gender Equality (EIGE).</p>
+      <p class="gr-card-desc">EU-wide guidelines on gender-neutral job evaluation and classification: a step-by-step toolkit developed by the European Institute for Gender Equality (EIGE).</p>
       <span class="gr-card-link">eige.europa.eu â</span>
     </a>
 
     <a class="gr-card" href="https://eige.europa.eu/gender-statistics/dgs" target="_blank" rel="noopener">
       <span class="gr-card-tag">EIGE Gender Statistics Database</span>
       <p class="gr-card-name">Gender Balance in Corporate Boardrooms</p>
-      <p class="gr-card-desc">Statistics on gender balance in corporate boardrooms across IPA beneficiary countries, contributed to EIGE's Gender Statistics Database.</p>
+      <p class="gr-card-desc">Statistics on gender balance in corporate boardrooms across IPA beneficiary countries, as part of the EIGE's Gender Statistics Database.</p>
       <span class="gr-card-link">eige.europa.eu â</span>
     </a>
 
     <a class="gr-card" href="https://eige.europa.eu/gender-statistics/dgs" target="_blank" rel="noopener">
       <span class="gr-card-tag">EIGE Gender Statistics Database</span>
       <p class="gr-card-name">Evaluation Framework for the Gender Statistics Database</p>
-      <p class="gr-card-desc">Evaluation framework developed for assessing EIGE's Gender Statistics Database (GSD).</p>
+      <p class="gr-card-desc">Audit and evaluation framework for assessing EIGE's Gender Statistics Database (GSD).</p>
       <span class="gr-card-link">eige.europa.eu â</span>
     </a>
 
@@ -175,7 +175,7 @@ title: giovannirazzu | Projects
     <a class="gr-card" href="https://researchonline.lse.ac.uk/id/eprint/106250/" target="_blank" rel="noopener">
       <span class="gr-card-tag">Home Office · Report</span>
       <p class="gr-card-name">Economic Costs of Antisocial Behaviour</p>
-      <p class="gr-card-desc">A review of the economic costs of antisocial behaviour, prepared for the Home Office.</p>
+      <p class="gr-card-desc">A review of the economic costs of antisocial behaviour for the Home Office.</p>
       <span class="gr-card-link">View report â</span>
     </a>
 
