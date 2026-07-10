@@ -160,14 +160,14 @@ title: giovannirazzu | Projects
     </a>
 
     <a class="gr-card" href="https://sticerd.lse.ac.uk/dps/case/cr/casereport60.pdf" target="_blank" rel="noopener">
-      <span class="gr-card-tag">Independent Review Â· Report</span>
+      <span class="gr-card-tag">Independent Review · Report</span>
       <p class="gr-card-name">National Equality Panel</p>
       <p class="gr-card-desc">Independent review set up by Harriet Harman, then Minister for Equality and Leader of the House, to carry out a comprehensive assessment of economic inequalities in the UK. Final report: "An Anatomy of Economic Inequality in the UK."</p>
       <span class="gr-card-link">View final report (PDF) â</span>
     </a>
 
     <a class="gr-card" href="https://dera.ioe.ac.uk/id/eprint/26640/1/equality_review.pdf" target="_blank" rel="noopener">
-      <span class="gr-card-tag">Independent Review Â· Report</span>
+      <span class="gr-card-tag">Independent Review · Report</span>
       <p class="gr-card-name">Equalities Review</p>
       <p class="gr-card-desc">Independent review set up by the Prime Minister to examine the long-term causes of disadvantage to be addressed by public policy. Final report: "Fairness and Freedom."</p>
       <span class="gr-card-link">View final report (PDF) â</span>
