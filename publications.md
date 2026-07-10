@@ -110,7 +110,7 @@ title: giovannirazzu | Publications
   <div class="pub">
     <p class="pub-title"><a href="https://doi.org/10.1007/s00181-025-02768-3">Government Spending Reallocations and Inequality: Evidence from Middle-Income Countries</a>a></p>
     <p class="pub-authors">Abraham Isiaka, Alexander Mihailov, and <strong>Giovanni Razzu</strong></p>
-    <p class="pub-venue">Empirical Economics, pp. 1â29, 2025</p>
+    <p class="pub-venue">Empirical Economics, pp. 1229-1257, 2025</p>
   </div>
 
   <div class="pub">
@@ -128,31 +128,31 @@ title: giovannirazzu | Publications
   <div class="pub">
     <p class="pub-title"><a href="http://centaur.reading.ac.uk/92703">On Why the Gender Employment Gap in Britain Has Stalled Since the Early 1990s</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong>, Carl Singleton, and Mark Mitchell</p>
-    <p class="pub-venue">Industrial Relations Journal, vol. 51(6), pages 476â501, 2020</p>
+    <p class="pub-venue">Industrial Relations Journal, vol. 51(6), pages 476-501, 2020</p>
   </div>
 
   <div class="pub">
     <p class="pub-title"><a href="https://doi.org/10.1111/bjir.12497">Who Works for Whom and the UK Gender Pay Gap</a></p>
     <p class="pub-authors">Sarah Louise Jewell, <strong>Giovanni Razzu</strong>, and Carl Singleton</p>
-    <p class="pub-venue">British Journal of Industrial Relations, vol. 58(1), pages 50â81, 2020</p>
+    <p class="pub-venue">British Journal of Industrial Relations, vol. 58(1), pages 50-81, 2020</p>
   </div>
 
   <div class="pub">
     <p class="pub-title"><a href="https://doi.org/10.1080/13545701.2018.1451907">Segregation and Gender Gaps in the United Kingdom's Great Recession and Recovery</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Carl Singleton</p>
-    <p class="pub-venue">Feminist Economics, vol. 24(4), pages 31â55, 2018</p>
+    <p class="pub-venue">Feminist Economics, vol. 24(4), pages 31-55, 2018</p>
   </div>
 
   <div class="pub">
     <p class="pub-title"><a href="https://doi.org/10.1016/j.jmacro.2015.12.006">Gender and the Business Cycle: A Stocks and Flows Analysis of US and UK Labour Market States</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Carl Singleton</p>
-    <p class="pub-venue">Journal of Macroeconomics, vol. 47, pages 131â146, 2016</p>
+    <p class="pub-venue">Journal of Macroeconomics, vol. 47, pages 131-146, 2016</p>
   </div>
 
   <div class="pub">
     <p class="pub-title"><a href="10.1016/j.habitatint.2003.12.002">Urban Redevelopment, Cultural Heritage, Poverty and Redistribution: The Case of Adwaso House in Old Accra</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong></p>
-    <p class="pub-venue">Habitat International, vol. 29(3), pages 399â419, 2014</p>
+    <p class="pub-venue">Habitat International, vol. 29(3), pages 399-419, 2014</p>
   </div>
 
   <div class="gr-cat">Books</div>
