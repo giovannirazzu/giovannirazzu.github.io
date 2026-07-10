@@ -108,7 +108,7 @@ g.razzu@reading.ac.uk
 
 Curriculum Vitae
 </p>
-</div>
+
 
 </td> 
 
