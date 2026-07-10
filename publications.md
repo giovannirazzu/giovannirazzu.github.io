@@ -103,7 +103,7 @@ title: giovannirazzu | Publications
 
   <div class="pub">
     <p class="pub-title">,<a href="https://doi.org/10.1016/j.worlddev.2025.107114">Three-Generation Educational Mobility in Six African Countries: The Role of Grandparents</a></p>
-    <p class="pub-authors"><strong>Giovanni Razzu</strong> and Abbi Wambile</p>
+    <p class="pub-authors"><strong>Giovanni Razzu</strong> and Ayago Wambile</p>
     <p class="pub-venue">World Development, vol. 195, p. 107114, 2025</p>
   </div>
 
@@ -121,7 +121,7 @@ title: giovannirazzu | Publications
 
   <div class="pub">
     <p class="pub-title"><a href="https://doi.org/10.1080/00220388.2021.2008366">Four Decades of Intergenerational Educational Mobility in Sub-Saharan Africa</a></p>
-    <p class="pub-authors"><strong>Giovanni Razzu</strong> and Abbi Wambile</p>
+    <p class="pub-authors"><strong>Giovanni Razzu</strong> and Ayago Wambile</p>
     <p class="pub-venue">Journal of Development Studies, vol. 58(5), 2021</p>
   </div>
 
@@ -185,7 +185,7 @@ title: giovannirazzu | Publications
 
   <div class="pub">
     <p class="pub-title"><a href="http://documents.worldbank.org/curated/en/099531405192618052">Converging Paths: Intergenerational Educational Mobility and the Decline of Gender and Geographic Gaps in Bangladesh</a></p>
-    <p class="pub-authors">Sandra Olivieri, <strong>Giovanni Razzu</strong>, and Abbi Wambile</p>
+    <p class="pub-authors">Sandra Olivieri, <strong>Giovanni Razzu</strong>, and Ayago Wambile</p>
     <p class="pub-venue">World Bank Group, Policy Research Working Paper 11386, 2026</p>
   </div>
 
