@@ -114,6 +114,13 @@ title: giovannirazzu | Work in Progress
     <p class="pub-nolink">Link coming soon</p>
   </div>
 
+<div class="pub">
+    <p class="pub-title">The kids are all right: recent evidence on migrants' wage penalty in the Britain</p>
+    <p class="pub-authors">With Andy Chung and Carl Singleton</p>
+    <p class="pub-nolink">Link coming soon</p>
+  </div>
+
+
   <div class="pub">
     <p class="pub-title">Gendered Landscape: A Framework for Diagnosis and Evaluation of Gender Inequalities in Urban Contexts</p>
     <p class="pub-authors">Marina Della Giusta, Florent Dubois, and <strong>Giovanni Razzu</strong></p>
