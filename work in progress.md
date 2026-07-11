@@ -115,7 +115,7 @@ title: Giovanni Razzu | Work in Progress
   </div>
 
 <div class="pub">
-    <p class="pub-title">The kids are all right: recent evidence on migrants' wage penalty in the Britain</p>
+    <p class="pub-title">The kids are all right: recent evidence on migrants' wage penalty in Britain</p>
     <p class="pub-authors">With Andy Chung and Carl Singleton</p>
     <p class="pub-nolink">Link coming soon</p>
   </div>
