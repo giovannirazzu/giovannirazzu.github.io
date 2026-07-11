@@ -1,5 +1,5 @@
 ---
-title: giovannirazzu | Work in Progress
+title: Giovanni Razzu | Work in Progress
 ---
 
 <style>
