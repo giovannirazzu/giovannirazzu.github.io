@@ -1,5 +1,5 @@
 ---
-title: giovannirazzu | Projects
+title: Giovanni Razzu | Projects
 ---
 
 <style>
