@@ -1,0 +1,7 @@
+title: Giovanni Razzu
+description: "Giovanni Razzu is a Professor in Economics of Public Policy at the University of Reading, researching gender inequality, labour markets, and intergenerational mobility."
+url: "https://giovannirazzu.github.io"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
