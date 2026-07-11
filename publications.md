@@ -1,5 +1,5 @@
 ---
-title: giovannirazzu | Publications
+title: Giovanni Razzu | Publications
 ---
 
 <style>
