@@ -133,7 +133,7 @@ title: Giovanni Razzu | Work in Progress
   </div>
 
   <div class="pub">
-    <p class="pub-title">Ancient Chinese Economic Thought in Relation to the Western Economics Canon</p>
+    <p class="pub-title">Light and Heavy: Guanzi Meets Schumpeter on the Boundaries of a Universal Science</p>
     <p class="pub-authors">With Yanshu Wang</p>
     <p class="pub-nolink">Link coming soon</p>
   </div>
