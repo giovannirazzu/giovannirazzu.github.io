@@ -152,7 +152,7 @@ title: Giovanni Razzu
           <li><a href="https://orcid.org/my-orcid?orcid=0000-0003-2640-8314">ORCID</a></li>
           <li><a href="https://ideas.repec.org/f/pra798.html">IDEAS / RePEc</a></li>
           <li><a href="https://www.researchgate.net/profile/Giovanni-Razzu">ResearchGate</a></li>
-          <li><a href="/files/cv.pdf">Curriculum Vitae</a></li>
+          <li><a href="/cv.pdf">Curriculum Vitae</a></li>
         </ul>
       </div>
     </div>
