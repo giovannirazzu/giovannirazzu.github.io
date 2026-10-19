@@ -102,13 +102,13 @@ title: Giovanni Razzu | Publications
   </div>
 
   <div class="pub">
-    <p class="pub-title">,<a href="https://doi.org/10.1016/j.worlddev.2025.107114">Three-Generation Educational Mobility in Six African Countries: The Role of Grandparents</a></p>
+    <p class="pub-title"><a href="https://doi.org/10.1016/j.worlddev.2025.107114">Three-Generation Educational Mobility in Six African Countries: The Role of Grandparents</a></p>
     <p class="pub-authors"><strong>Giovanni Razzu</strong> and Ayago Wambile</p>
     <p class="pub-venue">World Development, vol. 195, p. 107114, 2025</p>
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="https://doi.org/10.1007/s00181-025-02768-3">Government Spending Reallocations and Inequality: Evidence from Middle-Income Countries</a>a></p>
+    <p class="pub-title"><a href="https://doi.org/10.1007/s00181-025-02768-3">Government Spending Reallocations and Inequality: Evidence from Middle-Income Countries</a></p>
     <p class="pub-authors">Abraham Isiaka, Alexander Mihailov, and <strong>Giovanni Razzu</strong></p>
     <p class="pub-venue">Empirical Economics, pp. 1229-1257, 2025</p>
   </div>
