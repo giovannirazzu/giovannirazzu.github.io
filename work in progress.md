@@ -104,22 +104,17 @@ title: Giovanni Razzu | Work in Progress
     <p class="pub-authors">With Pierluigi Conzo, Marina Della Giusta, Florent Dubois, and Giacomo Rosso</p>
   </div>
 
-  <div class="pub">
-    <p class="pub-title"><a href="http://www.reading.ac.uk/web/files/economics/emdp202102.pdf">The Economic Rationality of Duty-Motivated Choices</a></p>
-  </div>
-
-  <div class="pub">
-    <p class="pub-title">Income Intergenerational Mobility in Sub-Saharan Africa</p>
-    <p class="pub-authors">With Ayago Wambile</p>
-    <p class="pub-nolink">Link coming soon</p>
-  </div>
-
 <div class="pub">
     <p class="pub-title">The kids are all right: recent evidence on migrants' wage penalty in Britain</p>
     <p class="pub-authors">With Andy Chung and Carl Singleton</p>
     <p class="pub-nolink">Link coming soon</p>
   </div>
 
+ <div class="pub">
+    <p class="pub-title">Income Intergenerational Mobility in Sub-Saharan Africa</p>
+    <p class="pub-authors">With Ayago Wambile</p>
+    <p class="pub-nolink">Link coming soon</p>
+  </div>
 
   <div class="pub">
     <p class="pub-title">Gendered Landscape: A Framework for Diagnosis and Evaluation of Gender Inequalities in Urban Contexts</p>
@@ -136,6 +131,10 @@ title: Giovanni Razzu | Work in Progress
     <p class="pub-title">Light and Heavy: Guanzi Meets Schumpeter on the Boundaries of a Universal Science</p>
     <p class="pub-authors">With Yanshu Wang</p>
     <p class="pub-nolink">Link coming soon</p>
+  </div>
+
+<div class="pub">
+    <p class="pub-title"><a href="http://www.reading.ac.uk/web/files/economics/emdp202102.pdf">The Economic Rationality of Duty-Motivated Choices</a></p>
   </div>
 
 </div>
