@@ -90,7 +90,7 @@ title: Giovanni Razzu | Work in Progress
   </div>
 
   <div class="pub">
-    <p class="pub-title"><a href="https://docs.iza.org/dp18714.pdf">Cooperation within EDI-Oriented Institutional Framing</a></p>
+    <p class="pub-title"><a href="https://docs.iza.org/dp18714.pdf">Cooperation and EDI. Inclusive Framing in a Four-City Public Goods Experiment</a></p>
     <p class="pub-authors">With Sophie Clot, Marina Della Giusta, and Florent Dubois</p>
   </div>
 
