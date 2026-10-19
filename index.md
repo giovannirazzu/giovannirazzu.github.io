@@ -115,8 +115,7 @@ title: Giovanni Razzu
 
   <h1><a href="https://giovannirazzu.github.io/" style="color:inherit;text-decoration:none;">Giovanni Razzu</a></h1>
   <p class="gr-tagline">Professor in Economics of Public Policy· University of Reading</p>
-  <p class="gr-notice">Website under development. Additional content will be added and updated over the coming weeks.</p>
-
+  
   <nav class="gr-nav">
     <a href="https://giovannirazzu.github.io/">About Me</a>
     <a href="https://giovannirazzu.github.io/publications.html">Publications</a>
